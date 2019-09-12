@@ -1,3 +1,3 @@
 # React-Native-Calculator
-update sdk location
-react-native run-adnroid
+# update sdk location if you use windows
+# react-native run-android
